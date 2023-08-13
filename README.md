@@ -38,9 +38,8 @@ Users can exit the application, and a thank you message is displayed.
 Usage Examples
 --------------
 You can run this Project in command prompt by using this following commands;
->> cd path\to\directory
->> 
->> python program.py
+- cd path\to\directory
+- python program.py
 
 1. Initialize the system:
 *************************
