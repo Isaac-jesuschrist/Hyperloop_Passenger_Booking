@@ -39,6 +39,7 @@ Usage Examples
 --------------
 You can run this Project in command prompt by using this following commands;
 >> cd path\to\directory
+>> 
 >> python program.py
 
 1. Initialize the system:
